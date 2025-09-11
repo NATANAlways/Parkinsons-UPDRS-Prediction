@@ -35,7 +35,7 @@ The workflow covers:
 
 ```
 .
-├── 2021E190_Lab02.ipynb   # Main analysis notebook
+├── model.ipynb   # Main analysis notebook
 └── parkinsons_updrs.data.csv   # Dataset
 ```
 
@@ -72,3 +72,4 @@ pip install -r requirements.txt
 
 * Tsanas et al., *Accurate telemonitoring of Parkinson’s disease progression by noninvasive speech tests*, IEEE Biomedical Engineering, 2010.
 * UCI Machine Learning Repository – Parkinson’s Telemonitoring Data.
+
