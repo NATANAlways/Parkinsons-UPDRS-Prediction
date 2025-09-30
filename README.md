@@ -67,9 +67,3 @@ pip install -r requirements.txt
 * Baseline regression models trained to predict `total_UPDRS`.
 * Feature correlations explored (e.g., strong correlation between some jitter/shimmer measures and UPDRS).
 * Performance evaluated using regression metrics.
-
-## References
-
-* Tsanas et al., *Accurate telemonitoring of Parkinson’s disease progression by noninvasive speech tests*, IEEE Biomedical Engineering, 2010.
-* UCI Machine Learning Repository – Parkinson’s Telemonitoring Data.
-
